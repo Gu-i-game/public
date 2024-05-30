@@ -1,6 +1,6 @@
 # Web3 P2E Gu$$I Coin Endless Runner
 
-![Game Preview](promo.gif.mp4)
+![Game Preview](promo.gif)
 
 **Game project for The Open League Hackaton at Minsk 7-9 June 2024, TON Community Belarus**
 
