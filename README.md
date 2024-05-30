@@ -22,6 +22,4 @@ Welcome to the Web3 P2E Gu$$I Coin Endless Runner, an exciting and innovative Pl
 
 Join the fun, earn rewards, and experience the future of gaming with our Web3 P2E endless runner game!
 
----
 
-*Note: Replace `path/to/your/gif.gif` with the actual path to your GIF file.*
